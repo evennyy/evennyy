@@ -1,4 +1,4 @@
-# Konnichiwa ✨
+# Hello world ✨
 
 🎓 Estudante de Sistemas de Informação 
 💻 Atualmente aprendendo *HTML, CSS, JavaScript e Python*  
